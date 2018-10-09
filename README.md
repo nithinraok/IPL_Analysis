@@ -9,3 +9,5 @@ In these Jypter notebooks I have analyzed how each batsmen,bolwer performed over
 6. Win of team over other teams in various stadiums
 
 Etc. (I think I have performed Analyis on all sorts of combinations :stuck_out_tongue_winking_eye: )
+
+Dataset Credist : https://cricsheet.org/ 
