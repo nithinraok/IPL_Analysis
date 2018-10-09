@@ -10,4 +10,4 @@ In these Jypter notebooks I have analyzed how each batsmen,bolwer performed over
 
 Etc. (I think I have performed Analyis on all sorts of combinations :stuck_out_tongue_winking_eye: )
 
-Dataset Credist : https://cricsheet.org/ 
+Dataset Credits : https://cricsheet.org/ 
